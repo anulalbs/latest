@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "08d3cedc-5643-4566-ab88-44876d38f145:0",
+      "projectId": "lc89wU46",
+      "filePath": "xds/www-spec.yml",
+      "docIndex": 0,
+      "assetType": "support",
+      "lastIndexed": 1773999073879,
+      "schemaVersion": 1
+    },
+    {
+      "id": "3fa56655-8841-45e6-9a6c-a5b54dbc0ead:0",
+      "projectId": "lc89wU46",
+      "filePath": "xds/.project-index",
+      "docIndex": 0,
+      "assetType": "support",
+      "lastIndexed": 1774000239349,
+      "schemaVersion": 1
+    },
+    {
+      "id": "cccad737-dae2-42a1-aa2a-f460238a3905:0",
+      "projectId": "lc89wU46",
+      "filePath": "xds/www.yaml",
+      "docIndex": 0,
+      "assetType": "resource",
+      "lastIndexed": 1773999073999,
+      "schemaVersion": 1,
+      "kind": "API",
+      "name": "www",
+      "namespace": "xds",
+      "version": "1.0",
+      "contentHash": "83e90f79dce1051a"
+    }
+  ],
+  "edges": [
+    {
+      "id": "6a660e98-fa20-43cc-80de-26d05734af00",
+      "projectId": "lc89wU46",
+      "sourceNodeId": "cccad737-dae2-42a1-aa2a-f460238a3905:0",
+      "targetNodeId": "08d3cedc-5643-4566-ab88-44876d38f145:0",
+      "targetRefType": "same-project",
+      "targetRefString": "./www-spec.yml",
+      "targetRefKind": "support",
+      "isValid": true,
+      "createdAt": 1773999074006,
+      "lastValidated": 1773999074006
+    }
+  ]
+}
