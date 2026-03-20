@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "141213c9-11d6-48fb-8bbd-8c8a0ff80f5e:0",
+      "projectId": "UPtMSHwY",
+      "filePath": "latest001-copy/.project-index",
+      "docIndex": 0,
+      "assetType": "support",
+      "lastIndexed": 1773988970749,
+      "schemaVersion": 1
+    },
+    {
+      "id": "8dfec14e-a881-4489-b5b7-971cd1bf1521:0",
+      "projectId": "UPtMSHwY",
+      "filePath": "latest001-copy/.keep",
+      "docIndex": 0,
+      "assetType": "support",
+      "lastIndexed": 1773988956796,
+      "schemaVersion": 1
+    }
+  ],
+  "edges": []
+}
