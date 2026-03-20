@@ -1,0 +1,89 @@
+{
+  "nodes": [
+    {
+      "id": "1f5ba4e6-db78-46f4-a151-a019310ad046:0",
+      "projectId": "FThx2X9F",
+      "filePath": "latest001-copy/.project-index",
+      "docIndex": 0,
+      "assetType": "support",
+      "lastIndexed": 1773988962020,
+      "schemaVersion": 1
+    },
+    {
+      "id": "476066ef-5dce-4110-b940-f03779ac98d0:0",
+      "projectId": "FThx2X9F",
+      "filePath": "latest001/api.yaml",
+      "docIndex": 0,
+      "assetType": "resource",
+      "lastIndexed": 1773988920084,
+      "schemaVersion": 1,
+      "kind": "API",
+      "name": "api",
+      "namespace": "latest001",
+      "version": "1.0",
+      "contentHash": "655bf1448e98abc1"
+    },
+    {
+      "id": "6ed9ec9e-2432-4489-9c4c-6a215e89a464:0",
+      "projectId": "FThx2X9F",
+      "filePath": "latest001-copy/api.yml",
+      "docIndex": 0,
+      "assetType": "support",
+      "lastIndexed": 1773989154139,
+      "schemaVersion": 1
+    },
+    {
+      "id": "717c6e9a-447e-46c8-9469-c9ef5fdf6534:0",
+      "projectId": "FThx2X9F",
+      "filePath": "latest001-copy/api-spec.yml",
+      "docIndex": 0,
+      "assetType": "support",
+      "lastIndexed": 1773989154138,
+      "schemaVersion": 1
+    },
+    {
+      "id": "7a882766-4c83-474e-b7fa-5a687eeb3fc9:0",
+      "projectId": "FThx2X9F",
+      "filePath": "latest001/api-spec.yml",
+      "docIndex": 0,
+      "assetType": "support",
+      "lastIndexed": 1773988920000,
+      "schemaVersion": 1
+    },
+    {
+      "id": "d358bf47-c38b-4d67-93b7-a0d9ef088c14:0",
+      "projectId": "FThx2X9F",
+      "filePath": "latest001/.project-index",
+      "docIndex": 0,
+      "assetType": "support",
+      "lastIndexed": 1773988962021,
+      "schemaVersion": 1
+    }
+  ],
+  "edges": [
+    {
+      "id": "406996bc-40b6-44db-b6f4-3808c8f2768f",
+      "projectId": "FThx2X9F",
+      "sourceNodeId": "6ed9ec9e-2432-4489-9c4c-6a215e89a464:0",
+      "targetNodeId": "717c6e9a-447e-46c8-9469-c9ef5fdf6534:0",
+      "targetRefType": "same-project",
+      "targetRefString": "./api-spec.yml",
+      "targetRefKind": "support",
+      "isValid": true,
+      "createdAt": 1773989154147,
+      "lastValidated": 1773989154147
+    },
+    {
+      "id": "f2943a73-6b4a-4fa2-a2d8-e89d3e43b3cb",
+      "projectId": "FThx2X9F",
+      "sourceNodeId": "476066ef-5dce-4110-b940-f03779ac98d0:0",
+      "targetNodeId": "7a882766-4c83-474e-b7fa-5a687eeb3fc9:0",
+      "targetRefType": "same-project",
+      "targetRefString": "./api-spec.yml",
+      "targetRefKind": "support",
+      "isValid": true,
+      "createdAt": 1773988920093,
+      "lastValidated": 1773988920093
+    }
+  ]
+}
